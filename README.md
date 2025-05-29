@@ -12,6 +12,16 @@
 
 The Decision Memo Slack App automatically generates comprehensive decision documentation from your team's Slack conversations. Built for teams that value **first-principles thinking**, **ownership**, and **strategic decision-making**.
 
+## 💡 The Problem
+
+In fast-moving companies, critical decisions often happen in Slack threads, meetings, or casual conversations. This valuable context gets lost, making it hard to:
+- Remember why decisions were made
+- Onboard new team members  
+- Learn from past choices
+- Maintain institutional knowledge
+
+This app transforms those informal discussions into structured decision documentation that can be referenced long-term.
+
 ### Key Features
 
 - **📝 AI-Powered Analysis** - Uses Claude 3.7 Sonnet to extract decision context and reasoning
