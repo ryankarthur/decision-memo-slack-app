@@ -131,8 +131,9 @@ im:history, im:write, channels:history, groups:history, mpim:history
 
 ## 💰 Usage Costs
 
-- **Claude API**: ~$0.10-$0.50 per decision memo
-- **Usage**: 2-4 API calls per memo generation
+- **Claude API**: ~$0.03–$0.06 per decision memo (as of May 2025)
+- **Usage**: 2–4 API calls per memo generation
+- **Based on**: Typical conversation length and clarifying questions
 
 Monitor usage in the Anthropic Console.
 
