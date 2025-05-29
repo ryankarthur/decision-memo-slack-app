@@ -1,15 +1,19 @@
 {
-  "name": "nodejs",
+  "name": "slack-decision-memo",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Slack integration for creating Decision Memos",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "@types/node": "^22.13.11"
+    "@slack/bolt": "^3.12.0",
+    "axios": "^1.3.4",
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
